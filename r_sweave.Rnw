@@ -2,6 +2,12 @@
 
 \begin{document}
 
+<<<<<<< HEAD
 yvhjvvhvdhmlmbfg 
+=======
+yvhjvvqbwegonq;woengqng
+qijlng;qngnq3ijbgijwberg
+hg23794t579q32bjnejnghv
+>>>>>>> r_new_branch
 
 \end{document}
